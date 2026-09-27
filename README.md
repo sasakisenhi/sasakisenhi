@@ -7,11 +7,12 @@ Kubernetes、AWS、CI/CD、Rustなどを用いて、
 
 ## Projects
 
-### Reliable Development Platform
+### [Reliable Development Platform](https://github.com/sasakisenhi/reliable-dev-platform)
 Kubernetes上でPlatform capabilityを再現可能に検証するプロジェクト。
 
-### Bevy AWS Platform
+
+### [Bevy AWS lesson](https://github.com/sasakisenhi/Bevy_AWS_lesson)
 Rust / Bevyのゲーム開発を支えるCI/CD・AWS基盤。
 
-### gameforge
+### [gameforge](https://github.com/sasakisenhi/gameforge)
 AI並列開発を支援する開発コントロールプレーンの実験。
